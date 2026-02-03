@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revo Coffee - Технические работы</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #2c5530;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌿 Revo Coffee</h1>
+    <p>Сайт находится на техническом обслуживании</p>
+    <p>Вернёмся в ближайшее время</p>
+</body>
+</html>
